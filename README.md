@@ -4,6 +4,10 @@
 I have implmented the file server using python socket programming. User can connect to the file 
 server using the IP address and port number. Once the connection establishes, user can run commands that allows user to upload, remove, downlaod files over the network inside the file server.
 
+<p align="center">
+<img width="616" height="600" alt="Screenshot 2023-01-05 at 4 12 07 pm" src="https://user-images.githubusercontent.com/40088060/210881053-4737b888-4df3-4bfd-a532-cbabc776d21b.png">
+
+</p>
 
 
 ## Command Samples
