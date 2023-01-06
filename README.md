@@ -65,7 +65,7 @@ Before running the project make sure you have python installed in your computer.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/ronakjpatel/FileServer.git
 ```
 
 Go to the project directory
